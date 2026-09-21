@@ -292,7 +292,7 @@ Este proyecto permite practicar:
 
 👩‍💻 Autor
 
-Lilliana Uribe González
+Juan Esteban Arboleda
 
 Proyecto académico/práctico de análisis de datos aplicado a un escenario SaaS para comercio electrónico.
 
